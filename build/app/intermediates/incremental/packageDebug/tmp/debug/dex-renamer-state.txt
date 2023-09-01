@@ -1,0 +1,4 @@
+#Thu Aug 31 20:12:28 IST 2023
+base.0=C\:\\Users\\Excel\\StudioProjects\\steper\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
